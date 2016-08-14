@@ -2,7 +2,7 @@
 Curvefitting and plottning code scripted in Python with interest towards paralell curvfitting of data with common constraints.
 
 
-Plan is to:
+Plan is to
 0. Design the program-structure
 
 1. firt try to separate the parts from the old scripts (Simplex.py) into individual files and along the way implement the Object-oriented curves.
